@@ -1,0 +1,14 @@
+{{HiddenSubject .Subject "Welcome to Rai"}}
+
+Hi {{.Name}},
+
+Welcome! Ready to start building some beautiful metric and analytic dashboards?
+
+If you are new to Rai, refer to the Getting started with Rai guide on https://Grafana.com/docs/Rai/latest/getting-started/getting-started/.
+
+Thank you for joining our community.
+
+The Rai team
+
+
+Sent by Rai v{{.BuildVersion}} (c) {{now | date "2006"}} Rai Labs
